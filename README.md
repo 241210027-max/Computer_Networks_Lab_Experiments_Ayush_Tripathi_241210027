@@ -1,15 +1,17 @@
-<div align="center">
+ <div align="center">
 
 # 🌐 Computer Networks Lab
+
+**Ayush Kumar Tripathi**  
+**Roll No: 241210027**
 
 **A complete record of my Computer Networks (CN) laboratory experiments** — Cisco Packet Tracer simulations, lab reports, and Python socket programs.
 
 ![Tool](https://img.shields.io/badge/Cisco-Packet%20Tracer-1BA0D7?logo=cisco&logoColor=white)
 
-
 </div>
 
-
+---
 
 ## 📑 Table of Contents
 
@@ -65,8 +67,6 @@ Each experiment folder contains its **lab report (PDF)** and the **Cisco Packet 
 
 ---
 
-
 ---
 
 ---
-
